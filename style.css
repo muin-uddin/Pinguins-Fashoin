@@ -1,0 +1,107 @@
+.logo img {
+    height: 25;
+    width: 300px;
+  }
+
+  #photo {
+    height: 400px;
+    width: 400px;
+  }
+
+  .butoon {
+    border: hsl(90, 29%, 49%);
+    background-color: #9ace62;
+    border-radius: 6px;
+    color: white;
+    padding: 6px;
+    width: 150px;
+    height: 50px;
+  }
+
+  .blog {
+    color: orange;
+  }
+
+  .button {
+    border: yellowgreen;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 6px;
+    width: 150px;
+    height: 50px;
+  }
+
+  #xmlid {
+    height: 600px;
+    width: 700px;
+  }
+
+  .card {
+    border: none;
+
+  }
+
+  .image {
+    background-color: rgb(209, 214, 219);
+    border-radius: 25px;
+   border: 20px solid whitesmoke;
+    width: 400px;
+    padding: 5px;
+   
+  }
+  .img{
+    height: 350px;
+    width: 350px;
+  }
+  .img3{
+    height: 50px;
+    width: 50px;
+  
+  }
+  .loogo{
+    height: 20px;
+    width: 20px;
+  }
+  .h3{
+    color: orange;
+  
+  }
+  .pic{
+    height: 200px;
+    width: 200px;
+  }
+  .shop{
+    border: 30px solid #e9e3e33d;
+    border-radius: 10px;
+  }
+  .img-logo{
+    height: 450px;
+    width: 450px;
+  }
+  .footer{
+    border: 40px solid whitesmoke;
+    border-radius: 10px;
+    background-color: seashell;
+    border-radius: 30px;
+    padding: 20px;
+  }
+  .flot{
+    background-color: seashell;
+    border-radius: 10px;
+  }
+  .Clike{
+    background-color: orange;
+    border-radius: 4px;
+    height: 40px;
+    width: 70px;
+    border: 10px solid orange;
+   
+    color: white;
+    text-decoration: none;
+  }
+  .div{
+    border: 40px solid lightgray;
+    border-radius: 10px;
+    padding: 20px;
+   
+  }
